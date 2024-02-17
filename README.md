@@ -1,3 +1,6 @@
+Added logo 
+<a href="https://ibb.co/N9VKs8s"><img src="https://i.ibb.co/VgjTt7t/logo1.png" alt="logo1" border="0"></a>
+
 Project has updated versions on headers and footer. 
 <!DOCTYPE html>
 <html lang="en">
